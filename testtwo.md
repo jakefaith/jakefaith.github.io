@@ -1,6 +1,5 @@
 ---
 title: testtwo
-filename: testtwo.md
 --- 
 
 ## Welcome to GitHub Pages
