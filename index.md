@@ -1,6 +1,5 @@
 ---
-title: PAGE TITLE HERE
-layout: template
+title: Lets goooo
 filename: index.md
 --- 
 
